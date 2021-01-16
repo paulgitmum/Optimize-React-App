@@ -1,5 +1,4 @@
-# Optimize-React-App
-Welcome to the Optimize-React-App wiki!
+
 
 # _How To Optimize React App Performance_
 
